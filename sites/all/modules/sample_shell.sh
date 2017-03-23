@@ -9,5 +9,6 @@
  *  @license  http://opensource.org/licenses/GPL-3.0 GNU Public License
  *  @link     http://purencool.com
  */
+
 ?>
 
