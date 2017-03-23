@@ -1,20 +1,13 @@
 <?php
-
 /**
+ *  HumanClass class file
+ *   
+ *  Php version 5.2
  *
- * Abstract class that all class need to 
- * extend off so that it can keep the human
- * traits
- *
+ *  @category Human_Family_A
+ *  @package  Human_Family_A
+ *  @author   purencool <purencool@gmail.com>
+ *  @license  http://opensource.org/licenses/GPL-3.0 GNU Public License
+ *  @link     http://purencool.com
  */
-abstract class HumanClass {
-
-    abstract public function head();
-
-    abstract public function arms();
-
-    abstract public function body();
-
-    abstract public function legs();
-}
-
+?>
